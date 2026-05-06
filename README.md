@@ -28,13 +28,11 @@ class Ardra:
     interests  = [
         "AI / Machine Learning 🤖",
         "Backend Development 🔧",
-        "Agriculture Tech 🌿",
         "Open Source 💻",
     ]
 
     currently  = "Building AgriBot — AI plant disease detection 🌱"
     goal       = "Backend Developer role by end of 2026 🎯"
-    fun_fact   = "Built an AI model to detect plant diseases! 🌾"
 ```
 
 ---
@@ -48,13 +46,11 @@ class Ardra:
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge\&logo=python\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge\&logo=javascript\&logoColor=white)
 
 ### 🌸 frameworks & libraries
 
 ![Django](https://img.shields.io/badge/Django-FF69B4?style=for-the-badge\&logo=django\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge\&logo=keras\&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-FF69B4?style=for-the-badge\&logo=django\&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
@@ -68,7 +64,6 @@ class Ardra:
 
 ### 🗄 databases
 
-![SQLite](https://img.shields.io/badge/SQLite-C0A0C8?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C0A0C8?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 </div>
@@ -134,7 +129,7 @@ class Ardra:
 ## 🌸 connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:appuardra5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ardra-p)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ardra-ganesan-p/)
 [![GitHub](https://img.shields.io/badge/GitHub-C0A0C8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ardra-p)
 
 ---

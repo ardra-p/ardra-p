@@ -1,131 +1,152 @@
 <div align="center">
 
-# ✨ Hi, I'm Ardra 🌸
+# ✨ hi, i'm ardra 🌸
 
-### Backend Developer (Django) · ML Enthusiast · Builder 🌿
+### backend dev · ai/ml enthusiast · builder 🌿
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Building+real-world+projects+🌱;Django+%2B+Machine+Learning+💻;Focused+on+Backend+Development+🚀;KTU+CSE+Student+🎓" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=FF69B4\&center=true\&vCenter=true\&width=500\&lines=building+things+that+matter+%F0%9F%8C%BF;python+%2B+django+%2B+tensorflow+%E2%9C%A8;turning+coffee+into+code+%E2%98%95;6th+sem+CSE+%40+KTU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌸 About Me
+<div align="center">
+
+## 🌸 about me
+
+</div>
 
 ```python
 class Ardra:
     name       = "Ardra P"
-    role       = "Aspiring Backend Developer"
     college    = "College of Engineering Thalassery"
-    university = "APJ Abdul Kalam Technological University (KTU)"
-    semester   = "6th Semester - Computer Science"
-    location   = "Kerala, India 🌴"
+    university = "KTU — APJ Abdul Kalam Technological University"
+    semester   = "6th Semester, Computer Science & Engineering"
+    location   = "Kozhikode, Kerala 🌴"
+    email      = "appuardra5@gmail.com"
 
     interests  = [
-        "Backend Development (Django)",
-        "Machine Learning",
-        "AgriTech Solutions",
-        "Open Source"
+        "AI / Machine Learning 🤖",
+        "Backend Development 🔧",
+        "Agriculture Tech 🌿",
+        "Open Source 💻",
     ]
 
-    current_focus = [
-        "Deploying real-world projects",
-        "Improving DSA skills",
-        "Backend system design basics"
-    ]
-
-    goal = "Secure a Backend Developer role by 2026"
+    currently  = "Building AgriBot — AI plant disease detection 🌱"
+    goal       = "Backend Developer role by end of 2026 🎯"
+    fun_fact   = "Built an AI model to detect plant diseases! 🌾"
 ```
 
 ---
 
-## 💻 Tech Stack
-
-### 🐍 Languages
-
-`Python` `JavaScript` `HTML` `CSS`
-
-### ⚙️ Frameworks & Libraries
-
-`Django` `Django REST Framework` `TensorFlow` `Keras` `Tailwind CSS`
-
-### 🛠 Tools
-
-`Git` `GitHub` `Postman` `VS Code` `Google Colab`
-
-### 🗄 Databases
-
-`SQLite` `PostgreSQL`
-
----
-
-## 🌿 Featured Project
-
-### 🌱 AgriBot — AI Plant Disease Detection
-
-🔗 **Project Link:**
-https://github.com/ardra-p/Agri-AI
-
-**Description:**
-AI-powered web application that detects plant diseases from leaf images and provides treatment suggestions.
-
-**Key Highlights:**
-
-* 🧠 Model: MobileNetV2 (Transfer Learning)
-* 🎯 Accuracy: 91.3%
-* 🌾 Crops: Rice, Wheat, Corn, Potato, Sugarcane
-* 🔧 Backend: Django + REST API
-* 💬 AI Chatbot: Agriculture-focused assistance
-* 🔐 Authentication: JWT + Sessions
-
-**Tech Used:**
-`Python` `Django` `TensorFlow` `Tailwind CSS`
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ardra-p&show_icons=true&theme=radical" width="48%" />
+## 💅 tech stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardra-p&layout=compact&theme=radical" width="40%" />
+### 🐍 languages
+
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge\&logo=javascript\&logoColor=white)
+
+### 🌸 frameworks & libraries
+
+![Django](https://img.shields.io/badge/Django-FF69B4?style=for-the-badge\&logo=django\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge\&logo=keras\&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-FF69B4?style=for-the-badge\&logo=django\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🛠 tools & platforms
+
+![Git](https://img.shields.io/badge/Git-DB7093?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge\&logo=github\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-DB7093?style=for-the-badge\&logo=google-colab\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-DB7093?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-DB7093?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+### 🗄 databases
+
+![SQLite](https://img.shields.io/badge/SQLite-C0A0C8?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C0A0C8?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+<div align="center">
 
-* 🌿 Deploying **AgriBot to production**
-* 🧠 Practicing **DSA (LeetCode goal: 150+)**
-* 📚 Preparing for **KTU Semester Exams**
-* 💼 Applying for **Backend Developer roles**
+## 🌷 featured project
 
----
+### 🌿 AgriBot — AI Plant Disease Detection
 
-## 🎯 Career Goal
+[![AgriBot](https://img.shields.io/badge/🌿_AgriBot-View_Project-FF69B4?style=for-the-badge)](https://github.com/ardra-p/Agri-AI)
 
-> Become a strong Backend Developer with solid problem-solving skills and real-world project experience.
+</div>
 
----
+> AI-powered web app that detects plant diseases from leaf images and provides treatment advice using deep learning.
 
-## 📫 Connect With Me
+|                 |                                      |
+| --------------- | ------------------------------------ |
+| 🧠 **Model**    | MobileNetV2 — Transfer Learning      |
+| 🎯 **Accuracy** | 91.30% on test set                   |
+| 🌾 **Crops**    | Rice, Wheat, Corn, Potato, Sugarcane |
+| 💬 **Chatbot**  | Grok AI API — agriculture focused    |
+| 🔧 **Backend**  | Django + Django REST Framework       |
+| 🔐 **Auth**     | JWT + Django Sessions                |
 
-* 📧 Email: [appuardra5@gmail.com](mailto:appuardra5@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/ardra-p
-* 💻 GitHub: https://github.com/ardra-p
-
----
-
-## 🌸 Quote
-
-> *"Consistency builds confidence. Confidence builds success."*
+**Built with:** `Python` `Django` `TensorFlow` `MobileNetV2` `Tailwind CSS`
 
 ---
 
 <div align="center">
 
-⭐ From Kerala, building for the world 🌍
+## 📊 github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ardra-p&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=DB7093&bg_color=fff0f5&border_color=FFB6C1" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardra-p&layout=compact&theme=radical&title_color=FF69B4&text_color=DB7093&bg_color=fff0f5&border_color=FFB6C1" width="40%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ardra-p&theme=radical&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=DB7093&currStreakLabel=FF69B4" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎀 currently working on
+
+</div>
+
+```
+🌿  AgriBot          → deploying to production
+🧠  DSA prep         → LeetCode (150+ problems goal)
+📚  S6 exams         → KTU semester
+💼  Job hunt         → backend developer roles
+```
+
+---
+
+<div align="center">
+
+## 🌸 connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:appuardra5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DB7093?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/ardra-p)
+[![GitHub](https://img.shields.io/badge/GitHub-C0A0C8?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ardra-p)
+
+---
+
+### 🌸 a little quote for the day
+
+*"Consistency beats motivation."* 💪
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ardra-p.ardra-p\&color=FF69B4)
+
+*made with 💗 by ardra · kerala, india 🌴*
 
 </div>

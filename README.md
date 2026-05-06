@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ hi, i'm ardra 🌸
+# ✨ hi, i'm Ardra 🌸
 
 ### backend dev · ai/ml enthusiast · builder 🌿
 
@@ -21,7 +21,7 @@ class Ardra:
     name       = "Ardra P"
     college    = "College of Engineering Thalassery"
     university = "KTU — APJ Abdul Kalam Technological University"
-    semester   = "6th Semester, Computer Science & Engineering"
+    semester   = "7th Semester, Computer Science & Engineering"
     location   = "Kozhikode, Kerala 🌴"
     email      = "appuardra5@gmail.com"
 

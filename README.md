@@ -70,30 +70,6 @@ class Ardra:
 
 ---
 
-<div align="center">
-
-## 🌷 featured project
-
-### 🌿 AgriBot — AI Plant Disease Detection
-
-[![AgriBot](https://img.shields.io/badge/🌿_AgriBot-View_Project-FF69B4?style=for-the-badge)](https://github.com/ardra-p/Agri-AI)
-
-</div>
-
-> AI-powered web app that detects plant diseases from leaf images and provides treatment advice using deep learning.
-
-|                 |                                      |
-| --------------- | ------------------------------------ |
-| 🧠 **Model**    | MobileNetV2 — Transfer Learning      |
-| 🎯 **Accuracy** | 91.30% on test set                   |
-| 🌾 **Crops**    | Rice, Wheat, Corn, Potato, Sugarcane |
-| 💬 **Chatbot**  | Grok AI API — agriculture focused    |
-| 🔧 **Backend**  | Django + Django REST Framework       |
-| 🔐 **Auth**     | JWT + Django Sessions                |
-
-**Built with:** `Python` `Django` `TensorFlow` `MobileNetV2` `Tailwind CSS`
-
----
 
 <div align="center">
 
@@ -110,17 +86,6 @@ class Ardra:
 ---
 
 <div align="center">
-
-## 🎀 currently working on
-
-</div>
-
-```
-🌿  AgriBot          → deploying to production
-🧠  DSA prep         → LeetCode (150+ problems goal)
-📚  S6 exams         → KTU semester
-💼  Job hunt         → backend developer roles
-```
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Backend Dev · AI/Ml Enthusiast · Builder 🌿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=FF69B4\&center=true\&vCenter=true\&width=500\&lines=building+things+that+matter+%F0%9F%8C%BF;python+%2B+django+%2B+REST-API+%E2%9C%A8;turning+coffee+into+code+%E2%98%95;6th+sem+CSE+%40+KTU+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=FF69B4\&center=true\&vCenter=true\&width=500\&lines=building+things+that+matter+%F0%9F%8C%BF;python+%2B+django+%2B+REST-API+%E2%9C%A8;turning+coffee+into+code+%E2%98%95;7th+sem+CSE+%40+KTU+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 

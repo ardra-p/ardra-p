@@ -85,9 +85,6 @@ class Ardra:
 
 ---
 
-<div align="center">
-
----
 
 <div align="center">
 
